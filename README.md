@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:8E2DE2&height=220&section=header&text=Avajit%20Kumar%20Kewrat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20SaaS%20%7C%20IEEE%20Researcher&descAlignY=55&descSize=18" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:8E2DE2&height=220&section=header&text=Avajit%20Kumar%20Kewrat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Dev%20%7C%20Backend%20Developer%20%7C%20IEEE%20Researcher&descAlignY=55&descSize=18" alt="Header Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Avajit+Kumar+Kewrat;Full-Stack+%2B+Backend+Developer;IEEE+Published+Researcher;Building+Scalable+SaaS+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Avajit+Kumar+Kewrat;MERN+Stack+Developer;Backend+Developer;IEEE+Published+Researcher;Currently+Exploring+AWS+%26+Spring+Boot" alt="Typing SVG" />
 
 ### Backend Developer · B.Tech CSE Graduate @ Parul University
 
@@ -47,7 +47,8 @@ Passionate about Node.js, FastAPI, microservices, and secure authentication.
 
 ## 🚀 About Me
 
-- 🔭 Actively seeking full-time **Backend / Full-Stack** engineering opportunities
+- 🔭 Actively seeking full-time **Backend / MERN Stack** engineering opportunities
+- 🧪 Currently exploring **AWS** and **Spring Boot**
 - 🧠 IEEE Published Researcher — real-time facial recognition systems using Computer Vision
 - 🌱 Deepening expertise in **microservices architecture** and **distributed systems**
 - ⚡ Fun fact: I enjoy optimizing slow queries almost as much as writing new features
@@ -92,7 +93,7 @@ Passionate about Node.js, FastAPI, microservices, and secure authentication.
 **Backend Developer Intern — Dignifiedme Technologies** *(Completed)*
 *Feb 2026 – Aug 2026*
 
-- Engineered scalable backend APIs and microservices for **Accelix.ai**, a hardware validation SaaS platform, using **Node.js**, **Express**, and **FastAPI**
+- Engineered scalable backend APIs and microservices for **Accelix.ai**, a hardware validation SaaS platform, using **Node.js**, **Express**, **Python**, and **FastAPI**
 - Architected secure authorization flows with **JWT**, **Multi-Factor Authentication (MFA)**, **Google SSO**, and **RBAC**
 - Optimized complex data schemas in **PostgreSQL** with **Prisma/SQLAlchemy** and integrated **Redis caching** to drastically reduce latency
 
