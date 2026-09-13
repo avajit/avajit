@@ -41,11 +41,10 @@ Passionate about Node.js, FastAPI, microservices, and secure authentication.
 
 ## 🚀 About Me
 
-- 🔭 Currently building backend systems for **Accelix.ai**, a hardware validation SaaS platform
-- 🧠 IEEE Published Researcher — real-time facial recognition systems using Computer Vision
-- 🌱 Deepening expertise in **microservices architecture** and **distributed systems**
-- ⚡ Fun fact: I enjoy optimizing slow queries almost as much as writing new features
-
+- 🔭 **Currently:** Actively seeking full-time Backend / Full-Stack engineering opportunities.
+- 🧠 **Research:** IEEE Published Researcher — real-time facial recognition systems.
+- 🌱 **Focus:** Deepening expertise in *microservices architecture* and *distributed systems*.
+- ⚡ **Fun fact:** I enjoy optimizing slow PostgreSQL queries almost as much as writing new features.
 <br/>
 
 ## 💻 Technical Arsenal
