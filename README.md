@@ -115,16 +115,16 @@ Passionate about Node.js, FastAPI, microservices, and secure authentication.
 ## ⚡ GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=avajit&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=8b949e&icon_color=2F80ED&text_bold=false" alt="Avajit's GitHub Stats" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=avajit&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=8b949e&icon_color=2F80ED&text_bold=false" alt="Avajit's GitHub Stats" />
   <img height="165em" src="https://streak-stats.demolab.com/?user=avajit&theme=transparent&hide_border=true&background=00000000&stroke=8b949e&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" alt="Avajit's Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avajit&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=8b949e" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=avajit&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=8b949e" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avajit&theme=react-dark&hide_border=true&bg_color=00000000&color=2F80ED&line=2F80ED&point=ffffff" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/2F80ED/avajit" alt="Contribution Chart" width="100%" />
 </div>
 
 <br/>
@@ -142,7 +142,7 @@ Passionate about Node.js, FastAPI, microservices, and secure authentication.
 ## 🏅 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avajit&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=avajit&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </div>
 
 <br/>
@@ -160,7 +160,6 @@ Passionate about Node.js, FastAPI, microservices, and secure authentication.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2F80ED&height=100&section=footer" alt="Footer Banner"/>
-
 <!--
 SETUP NOTE — Contribution Snake:
 1. In your `avajit/avajit` profile repo, add this GitHub Actions workflow file at
