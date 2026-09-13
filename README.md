@@ -35,6 +35,8 @@ Passionate about Node.js, FastAPI, microservices, and secure authentication.
   <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" />
 </a>
 
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=avajit&style=for-the-badge&color=2F80ED&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
@@ -45,10 +47,10 @@ Passionate about Node.js, FastAPI, microservices, and secure authentication.
 
 ## 🚀 About Me
 
-- 🔭 **Currently:** Actively seeking full-time Backend / Full-Stack engineering opportunities.
-- 🧠 **Research:** IEEE Published Researcher — real-time facial recognition systems using Computer Vision.
-- 🌱 **Focus:** Deepening expertise in **microservices architecture** and **distributed systems**.
-- ⚡ **Fun fact:** I enjoy optimizing slow queries almost as much as writing new features.
+- 🔭 Actively seeking full-time **Backend / Full-Stack** engineering opportunities
+- 🧠 IEEE Published Researcher — real-time facial recognition systems using Computer Vision
+- 🌱 Deepening expertise in **microservices architecture** and **distributed systems**
+- ⚡ Fun fact: I enjoy optimizing slow queries almost as much as writing new features
 
 <br/>
 
@@ -87,7 +89,7 @@ Passionate about Node.js, FastAPI, microservices, and secure authentication.
 <tr>
 <td width="100%">
 
-**Backend Developer Intern — Dignifiedme Technologies**
+**Backend Developer Intern — Dignifiedme Technologies** *(Completed)*
 *Feb 2026 – Aug 2026*
 
 - Engineered scalable backend APIs and microservices for **Accelix.ai**, a hardware validation SaaS platform, using **Node.js**, **Express**, and **FastAPI**
@@ -112,8 +114,8 @@ Passionate about Node.js, FastAPI, microservices, and secure authentication.
 ## ⚡ GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=avajit&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=8b949e&icon_color=2F80ED&text_bold=false" alt="Avajit's GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=avajit&theme=transparent&hide_border=true&title_color=2F80ED&text_color=8b949e&icon_color=2F80ED&sideNums=8b949e&sideLabels=8b949e&ring=2F80ED&fire=2F80ED&currStreakLabel=8b949e&currStreakNum=8b949e" alt="Avajit's Streak" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=avajit&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=8b949e&icon_color=2F80ED&text_bold=false" alt="Avajit's GitHub Stats" />
+  <img height="165em" src="https://streak-stats.demolab.com/?user=avajit&theme=transparent&hide_border=true&background=00000000&stroke=8b949e&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" alt="Avajit's Streak" />
 </div>
 
 <div align="center">
