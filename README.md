@@ -48,7 +48,7 @@ Passionate about Node.js, FastAPI, microservices, and secure authentication.
 ## 🚀 About Me
 
 - 🔭 Actively seeking full-time **Backend / MERN Stack** engineering opportunities
-- 🧪 Currently exploring **AWS** and **Spring Boot**
+- 🧪 Currently exploring AWS infrastructure, vector databases, and LLM/RAG pipelines
 - 🧠 IEEE Published Researcher — real-time facial recognition systems using Computer Vision
 - 🌱 Deepening expertise in **microservices architecture** and **distributed systems**
 - ⚡ Fun fact: I enjoy optimizing slow queries almost as much as writing new features
